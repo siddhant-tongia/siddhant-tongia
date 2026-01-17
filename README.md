@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Siddhant Tongia 
 
-<!--
-**siddhant-tongia/siddhant-tongia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st year engineering student at **SGSITS**, currently building a strong foundation in **Data Structures & Algorithms using C++**.
 
-Here are some ideas to get you started:
+I’ve just started my serious coding journey, and my primary goal is clear:
+**by the end of this semester, I want solid command over DSA in C++.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No shortcuts. No hype. Just consistent work.
+
+---
+
+## 🎯 Current Focus
+- 📌 Data Structures & Algorithms (C++)
+- 📌 Problem solving mindset
+- 📌 Writing clean, understandable code
+- 📌 Daily practice & consistency
+
+---
+
+## 🧠 Learning Roadmap (This Semester)
+- Basics & math for problem solving
+- Arrays, searching, sorting
+- Binary search & advanced array techniques
+- Recursion & basic STL
+- Gradually moving towards more complex DSA topics
+
+All practice code is being pushed regularly on GitHub.
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** C++
+- **Tools:** Git, GitHub, VS Code
+- **Core CS:** DSA, OOP, Problem Solving
+
+---
+
+## 📂 Featured Work
+- 📘 **DSA-C-Plus-Plus**  
+  Structured DSA learning repo with topic-wise folders and explanations.  
+  (Pinned on profile)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhant-tongia&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/siddhant-tongia-32544a3a0
+
+---
+
+### ⚡ Note
+I’m early in my journey, but I value **discipline, consistency, and fundamentals**.
+This profile will grow as my skills do.
