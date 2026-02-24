@@ -1,11 +1,12 @@
 # Hi, I'm Siddhant Tongia 
 
-I'm a 1st year engineering student at **SGSITS**, currently building a strong foundation in **Data Structures & Algorithms using C++**.
+I'm a 1st year engineering student at SGSITS, currently building a strong foundation in Data Structures & Algorithms (C++) and exploring the world of Data Science (Python).
+I’ve just started my serious coding journey, and my goals for this semester are clear:
 
-I’ve just started my serious coding journey, and my primary goal is clear:
-**by the end of this semester, I want solid command over DSA in C++.**
+Master DSA in C++ to build a solid problem-solving foundation.
+Implement Data Analysis using Python libraries like NumPy and Pandas.
 
-No shortcuts. No hype. Just consistent work.
+No shortcuts. No hype. Just consistent work across both domains
 
 ---
 
