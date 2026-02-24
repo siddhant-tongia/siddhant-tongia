@@ -29,8 +29,8 @@ All practice code is being pushed regularly on GitHub.
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** C++
-- **Tools:** Git, GitHub, VS Code
+- **Language:** C++, Python
+- **Tools:** Git, GitHub, VS Code, Jupeter Notebook
 - **Core CS:** DSA, OOP, Problem Solving
 
 ---
@@ -39,17 +39,19 @@ All practice code is being pushed regularly on GitHub.
 - 📘 **DSA-C-Plus-Plus**  
   Structured DSA learning repo with topic-wise folders and explanations.  
   (Pinned on profile)
+- 📊 Data-Analysis-With-Python Hands-on implementation of data concepts using NumPy and Pandas.
+  (IPL Team Analysis).
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhant-tongia&show_icons=true&theme=tokyonight)
+Created by [Siddhant Tongia](https://github.com/siddhant-tongia)
 
 ---
 
 ## 🔗 Links
-- LinkedIn: https://www.linkedin.com/in/siddhant-tongia-32544a3a0
+- **LinkedIn:** [Siddhant Tongia](https://www.linkedin.com/in/siddhant-tongia-32544a3a0)
 
 ---
 
