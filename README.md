@@ -30,7 +30,7 @@ All practice code is being pushed regularly on GitHub.
 
 ## 🛠️ Tech Stack
 - **Language:** C++, Python
-- **Tools:** Git, GitHub, VS Code, Jupeter Notebook
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 - **Core CS:** DSA, OOP, Problem Solving
 
 ---
