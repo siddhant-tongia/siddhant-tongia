@@ -41,7 +41,6 @@ All practice code is being pushed regularly on GitHub.
   Structured DSA learning repo with topic-wise folders and explanations.  
   (Pinned on profile)
 - 📊 Data-Analysis-With-Python Hands-on implementation of data concepts using NumPy and Pandas.
-  (IPL Team Analysis).
 
 ---
 
