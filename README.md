@@ -1,46 +1,32 @@
-# Hi, I'm Siddhant Tongia 
+# Hi, I'm Siddhant Tongia 👋
 
-I'm a 1st year engineering student at SGSITS, currently building a strong foundation in Data Structures & Algorithms (C++) and exploring the world of Data Science (Python).
-I’ve just started my serious coding journey, and my goals for this semester are clear:
+CSE student at SGSITS Indore. I'm focused on AI and automation — mostly
+building things, not just reading about them.
 
-Master DSA in C++ to build a solid problem-solving foundation.
-Implement Data Analysis using Python libraries like NumPy and Pandas.
+## What I'm building
 
-No shortcuts. No hype. Just consistent work across both domains
+An AI chatbot suite for clinics, coaching centers, and small businesses.
+The idea is simple: automate WhatsApp, Telegram, and email so these places
+don't have to do it manually. Terminal version works. Now building the UI.
 
----
+Eventually, I want this to be a company. That's the plan.
 
-## 🎯 Current Focus
-- 📌 Data Structures & Algorithms (C++)
-- 📌 Problem solving mindset
-- 📌 Writing clean, understandable code
-- 📌 Daily practice & consistency
+## Tech
 
----
+- **Languages:** C++, Python  
+- **Data:** NumPy, Pandas, Matplotlib, Seaborn  
+- **AI/Automation:** LLMs, chatbots, business process automation  
+- **CS:** DSA, OOP  
 
-## 🧠 Learning Roadmap (This Semester)
-- Basics & math for problem solving
-- Arrays, searching, sorting
-- Binary search & advanced array techniques
-- Recursion & basic STL
-- Gradually moving towards more complex DSA topics
+## This semester
 
-All practice code is being pushed regularly on GitHub.
+DSA in C++ (arrays, recursion, binary search, STL) + Python for data
+analysis. Everything gets pushed to GitHub as I go.
 
----
+## Outside code
 
-## 🛠️ Tech Stack
-- **Language:** C++, Python
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **Core CS:** DSA, OOP, Problem Solving
-
----
-
-## 📂 Featured Work
-- 📘 **DSA-C-Plus-Plus**  
-  Structured DSA learning repo with topic-wise folders and explanations.  
-  (Pinned on profile)
-- 📊 Data-Analysis-With-Python Hands-on implementation of data concepts using NumPy and Pandas.
+Cricket, mobile gaming, Indian Hip-Hop, and a long-term goal to travel
+everywhere.
 
 ---
 
@@ -58,3 +44,6 @@ Created by [Siddhant Tongia](https://github.com/siddhant-tongia)
 ### ⚡ Note
 I’m early in my journey, but I value **discipline, consistency, and fundamentals**.
 This profile will grow as my skills do.
+
+---
+📍 Indore, India
