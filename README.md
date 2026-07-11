@@ -50,7 +50,6 @@ I am a Computer Science Engineering student at SGSITS Indore with a deep passion
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -63,7 +62,6 @@ I am a Computer Science Engineering student at SGSITS Indore with a deep passion
 
 ### ⚡ Let's Collaborate!
 I value **discipline, consistency, and fundamentals**.
-*   🚀 **Building NexaBuilds**, my own AI and web development venture, while learning AI and automation through hands-on projects.
-*   💬 **Let's talk about AI** — always open to discussing new tools and ideas!
+   💬 **Let's talk about AI** — always open to discussing new tools and ideas!
 
 📍 Indore, India
