@@ -286,12 +286,12 @@ centers on discipline, strong fundamentals, and shipping code that solves real p
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhant-tongia&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhant-tongia&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=siddhant-tongia&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=siddhant-tongia&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-tongia&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -318,7 +318,7 @@ centers on discipline, strong fundamentals, and shipping code that solves real p
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhant-tongia/siddhant-tongia/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhant-tongia/siddhant-tongia/output/github-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/siddhant-tongia/siddhant-tongia/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/siddhant-tongia/siddhant-tongia/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -369,6 +369,11 @@ Open To:
 
 <p align="center">
   <i>"Discipline is the bridge between goals and accomplishment."</i>
+</p>
+
+<p align="center">
+  <!--LAST_UPDATED:July 27, 2026 16:00 UTC-->
+  🕐 Last Updated: **July 27, 2026 16:00 UTC**
 </p>
 
 <p align="center">
