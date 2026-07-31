@@ -236,23 +236,6 @@ centers on discipline, strong fundamentals, and shipping code that solves real p
 
 </details>
 
-<details>
-<summary><b>🌐 Web Scraper AI</b> — Intelligent Web Data Extraction <code>🚧 In Progress</code></summary>
-<br/>
-
-> An AI-powered web scraping tool that intelligently extracts and structures data from websites.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Python, AI, Web Scraping |
-| **Scale** | Designed for intelligent, adaptive scraping across diverse web structures |
-| **Performance** | AI-driven parsing to handle dynamic and unstructured web content |
-| **Impact** | Automates data collection with intelligent content understanding |
-| **Repository** | [github.com/siddhant-tongia/web-scraper-ai](https://github.com/siddhant-tongia/web-scraper-ai) |
-
-**Engineering Highlights:** Currently building an AI-enhanced web scraper that goes beyond traditional rule-based extraction, using LLMs to understand and structure web content intelligently.
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -311,7 +294,6 @@ Learning:
 
 Building:
   - Second Brain — AI-powered personal knowledge management system
-  - Web Scraper AI — Intelligent web data extraction tool
   - Production-grade AI automation tools
   - Open-source developer CLI tools
 
