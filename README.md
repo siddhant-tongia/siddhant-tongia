@@ -270,7 +270,10 @@ centers on discipline, strong fundamentals, and shipping code that solves real p
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=siddhant-tongia&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=siddhant-tongia&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies Row 1"/>
+</p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=siddhant-tongia&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=B,C" alt="GitHub Trophies Row 2"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
