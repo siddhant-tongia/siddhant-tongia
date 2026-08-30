@@ -256,15 +256,23 @@ centers on discipline, strong fundamentals, and shipping code that solves real p
 ## 🏅 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/siddhant-tongia/">
-    <img src="https://img.shields.io/badge/LeetCode-siddhant--tongia-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/Siddhant222008/">
+    <img src="https://img.shields.io/badge/LeetCode-Siddhant222008-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/siddhant-tongia">
     <img src="https://img.shields.io/badge/GeeksforGeeks-siddhant--tongia-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <i>Actively sharpening Data Structures & Algorithms in C++ — solving problems daily to build strong problem-solving fundamentals.</i>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Siddhant222008/">
+    <img src="https://leetcard.jacoblin.cool/Siddhant222008?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
+  </a>
+</p>
 
 
 ## 🏆 GitHub Trophies
