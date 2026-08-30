@@ -256,7 +256,7 @@ centers on discipline, strong fundamentals, and shipping code that solves real p
 ## 🏅 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/siddhant-tongia">
+  <a href="https://leetcode.com/u/siddhant-tongia/">
     <img src="https://img.shields.io/badge/LeetCode-siddhant--tongia-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/siddhant-tongia">
