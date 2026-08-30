@@ -278,7 +278,7 @@ centers on discipline, strong fundamentals, and shipping code that solves real p
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant-tongia&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=A78BFA&area=true&area_color=4C1D95&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://readme-activity-graph.vercel.app/graph?username=siddhant-tongia&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=A78BFA&area=true&area_color=4C1D95&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
